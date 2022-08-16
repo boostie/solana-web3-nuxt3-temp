@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.8"
+  },
+  "dependencies": {
+    "@solana/wallet-adapter-wallets": "^0.17.2",
+    "@vitejs/plugin-vue": "^3.0.3",
+    "buffer": "^6.0.3",
+    "buffer-layout": "^1.2.2",
+    "eventemitter3": "^4.0.7",
+    "solana": "^1.0.7-development",
+    "solana-wallets-vue": "^0.4.3",
+    "solana-wallets-vue-2": "^0.1.5",
+    "vite-plugin-inspect": "^0.6.0"
+  }
+}

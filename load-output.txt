@@ -1,0 +1,11 @@
+
+> dev
+> nuxt dev
+
+[2J[0fNuxt CLI v3.0.0-rc.8
+
+  > Local:    http://localhost:3000/ 
+  > Network:  http://192.168.0.185:3000/
+
+ℹ Vite client warmed up in 503ms
+✔ Nitro built in 423 ms
